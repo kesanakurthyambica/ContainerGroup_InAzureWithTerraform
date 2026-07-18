@@ -1,11 +1,11 @@
 *** Using Terraform with Azure ***
 ** Introduction **
-Welcome to the Using Terraform with Azure lab. In this lab, we will cover three objectives:
+Welcome to the Using Terraform with Azure lab. In this , we will cover three objectives:
 
 ** Log into Azure **
 Create the Terraform Configuration
 Deploy the Configuration
-By the end of the lab, you'll have deployed a container group to Microsoft Azure using Terraform.
+By the end of this, you'll have deployed a container group to Microsoft Azure using Terraform.
 
 ** Solution **
 Log into Azure
